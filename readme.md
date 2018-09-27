@@ -1,2 +1,3 @@
 Sasha Hall
-Lab 4 Version Control
+Lab 4 Version Contral
+Partner Jake Maloney
